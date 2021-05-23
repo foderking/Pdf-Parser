@@ -67,11 +67,13 @@ def eachTrans(text):
 	t  = transactionText(text)
 	output = re.findall(f'({date_match})(.*?)({date_match}).*?({digit_match}).*?({digit_match}).*?({digit_match})', t)
 	
-	temp = [len(each) == 6  for each in output]
-	temp = list(filter(lambda x: x == False, temp))
-	assert temp == []
+	# temp = [len(each) == 6  for each in output]
+	assert list(filter(lambda x: len(x) != 6, output)) == []
+	# assert temp == []
+	temp = [digitizeTuple(each) for each in output]
+	# print (temp)
 	
-	return output # Array of tuples containing transaction data
+	return temp # Array of tuples containing transaction data
 
 def str2NUm(text):
 	return float(text.replace(',', ''))
@@ -174,6 +176,7 @@ def Test(show = True):
 	# testTransText(True)
 
 	return testAll(show)
+	# testEachTrans(show)
 	# testTotalCredit(show)
 
 def dictionaryParser(dictionary):
@@ -208,6 +211,6 @@ def Main():
 
 
 if __name__ == '__main__':
-	# Main()
-	print(digitizeTuple(('asf', 'aa', 'ggggg', '124', '346', '346')))
+	Main()
+	# print(digitizeTuple(('asf', 'aa', 'ggggg', '124', '346', '346')))
 	# Test()
