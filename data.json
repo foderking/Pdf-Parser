@@ -1,0 +1,1483 @@
+[
+  {
+    "Periods": "01-Oct-2020 to 31-Oct-2020",
+    "Dates": "01-Nov-2020",
+    "Opening Balance": 111280.94,
+    "Closing Balance": 72081.74,
+    "Total Debit": 79274.41,
+    "Total Credit": 40075.21,
+    "Uncleared Effects": 50.0,
+    "Each Transactions": [
+      [
+        "02-Oct-2020",
+        "E-PAYMENT/-IKEJA,60 OPEBI IKEJA, LAGOS NG",
+        "02-Oct-2020",
+        "10,000.00",
+        "0.00",
+        "101,280.94"
+      ],
+      [
+        "05-Oct-2020",
+        "POS PURCHA-FS *seedr Amsterdam NL",
+        "05-Oct-2020",
+        "2,764.73",
+        "0.00",
+        "98,516.21"
+      ],
+      [
+        "05-Oct-2020",
+        "POS PURCHA-DE-TASTEE FRIED CHIC LA LANG",
+        "05-Oct-2020",
+        "1,950.00",
+        "0.00",
+        "96,566.21"
+      ],
+      [
+        "05-Oct-2020",
+        "POS PURCHA-UZOR NNAMAKA BENJAMI LA LANG",
+        "05-Oct-2020",
+        "19,000.00",
+        "0.00",
+        "77,566.21"
+      ],
+      [
+        "05-Oct-2020",
+        "POS PURCHA-UZOR NNAMAKA BENJAMI LA LANG",
+        "05-Oct-2020",
+        "11,000.00",
+        "0.00",
+        "66,566.21"
+      ],
+      [
+        "05-Oct-2020",
+        "ATM CASH W-SWTCHBsnk Ikeja NG",
+        "05-Oct-2020",
+        "10,000.00",
+        "0.00",
+        "56,566.21"
+      ],
+      [
+        "06-Oct-2020",
+        "REF:116224020 B/O AJIBOLA AKINWUMI ADEPITAN Septemberstipend",
+        "06-Oct-2020",
+        "0.00",
+        "40,000.00",
+        "96,566.21"
+      ],
+      [
+        "06-Oct-2020",
+        "ATM CASH W-ACCESS BANK00000000000 IKEJA, LAGOS NG",
+        "06-Oct-2020",
+        "20,000.00",
+        "0.00",
+        "76,566.21"
+      ],
+      [
+        "07-Oct-2020",
+        "STAMP DUTY CHARGE IFO FG",
+        "07-Oct-2020",
+        "50.00",
+        "0.00",
+        "76,516.21"
+      ],
+      [
+        "12-Oct-2020",
+        "POS PURCHA-CHICKEN REPUBLIC1 LA LANG",
+        "12-Oct-2020",
+        "1,300.00",
+        "0.00",
+        "75,216.21"
+      ],
+      [
+        "19-Oct-2020",
+        "POS PURCHA-SPLICE COM NEW YORK CITYNYUS",
+        "19-Oct-2020",
+        "3,179.58",
+        "0.00",
+        "72,036.63"
+      ],
+      [
+        "27-Oct-2020",
+        "7 SMS CHARGE AND VAT FOR 25TH SEP - 26TH OCT 2020",
+        "28-Oct-2020",
+        "30.10",
+        "0.00",
+        "72,006.53"
+      ],
+      [
+        "30-Oct-2020",
+        "INTEREST PAID",
+        "01-Nov-2020",
+        "0.00",
+        "75.21",
+        "72,081.74"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Dec-2020 to 31-Dec-2020",
+    "Dates": "04-Jan-2021",
+    "Opening Balance": 122008.97,
+    "Closing Balance": 115068.06,
+    "Total Debit": 7055.18,
+    "Total Credit": 114.27,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "03-Dec-2020",
+        "POS PURCHA-EASY SHOPPING FOODMA FC FCNG",
+        "03-Dec-2020",
+        "950.00",
+        "0.00",
+        "121,058.97"
+      ],
+      [
+        "07-Dec-2020",
+        "POS PURCHA-FS *seedr Amsterdam NL",
+        "05-Dec-2020",
+        "2,807.15",
+        "0.00",
+        "118,251.82"
+      ],
+      [
+        "18-Dec-2020",
+        "POS PURCHA-SPLICE COM NEW YORK CITYNYUS",
+        "19-Dec-2020",
+        "3,227.08",
+        "0.00",
+        "115,024.74"
+      ],
+      [
+        "24-Dec-2020",
+        "4 SMS CHARGE AND VAT FOR 26TH NOV - 23RD DEC 2020",
+        "25-Dec-2020",
+        "17.20",
+        "0.00",
+        "115,007.54"
+      ],
+      [
+        "29-Dec-2020",
+        "Q4 CARD MAINTENANCE FEE ",
+        "30-Dec-2020",
+        "53.75",
+        "0.00",
+        "114,953.79"
+      ],
+      [
+        "31-Dec-2020",
+        "INTEREST PAID",
+        "01-Jan-2021",
+        "0.00",
+        "114.27",
+        "115,068.06"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Aug-2020 to 31-Aug-2020",
+    "Dates": "02-Sep-2020",
+    "Opening Balance": 122664.23,
+    "Closing Balance": 147872.35,
+    "Total Debit": 62738.87,
+    "Total Credit": 87946.99,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "03-Aug-2020",
+        "POS PURCHA-PAYPAL *BLANKFILES 4029357733 LU",
+        "03-Aug-2020",
+        "3.99",
+        "0.00",
+        "122,660.24"
+      ],
+      [
+        "05-Aug-2020",
+        "POS PURCHA-FS *seedr Amsterdam NL",
+        "05-Aug-2020",
+        "2,786.00",
+        "0.00",
+        "119,874.24"
+      ],
+      [
+        "05-Aug-2020",
+        "POS PURCHA-CHICKEN REBUBLIC LANG NG",
+        "05-Aug-2020",
+        "1,650.00",
+        "0.00",
+        "118,224.24"
+      ],
+      [
+        "06-Aug-2020",
+        "NIP FROM AKINWUMI AJIBOLA/ECOBANK-AJIBOLA ONAOPEMIPOOLUWAJOMILOJU /000017/158572790754",
+        "06-Aug-2020",
+        "0.00",
+        "40,000.00",
+        "158,224.24"
+      ],
+      [
+        "06-Aug-2020",
+        "STAMP DUTY CHARGE IFO FG",
+        "06-Aug-2020",
+        "50.00",
+        "0.00",
+        "158,174.24"
+      ],
+      [
+        "17-Aug-2020",
+        "ATM CASH W-ACCESS BANK00000000000 IKEJA, LAGOS NG",
+        "15-Aug-2020",
+        "10,000.00",
+        "0.00",
+        "148,174.24"
+      ],
+      [
+        "17-Aug-2020",
+        "POS PURCHA-CHICKEN REBUBLIC LANG NG",
+        "15-Aug-2020",
+        "1,400.00",
+        "0.00",
+        "146,774.24"
+      ],
+      [
+        "17-Aug-2020",
+        "NIP FROM AJIBOLA TOBILOLA IBIWUNMI/GROCERY /000013/000128150823",
+        "15-Aug-2020",
+        "0.00",
+        "2,500.00",
+        "149,274.24"
+      ],
+      [
+        "17-Aug-2020",
+        "POS PURCHA-ARTEE INDUSTRIES LIM LANG NG",
+        "15-Aug-2020",
+        "5,212.70",
+        "0.00",
+        "144,061.54"
+      ],
+      [
+        "18-Aug-2020",
+        "POS PURCHA-CHICKEN REBUBLIC LANG NG",
+        "18-Aug-2020",
+        "1,300.00",
+        "0.00",
+        "142,761.54"
+      ],
+      [
+        "19-Aug-2020",
+        "POS PURCHA-SPLICE COM NEW YORK CITYNYUS",
+        "19-Aug-2020",
+        "3,182.74",
+        "0.00",
+        "139,578.80"
+      ],
+      [
+        "24-Aug-2020",
+        "NIP FROM TOLULOPE DAMILOLA AJIBOLA/ /000015/001107407993",
+        "23-Aug-2020",
+        "0.00",
+        "5,000.00",
+        "144,578.80"
+      ],
+      [
+        "25-Aug-2020",
+        "POS PURCHA-PAYPAL *2CO.COM 880000008 NL",
+        "25-Aug-2020",
+        "11,956.76",
+        "0.00",
+        "132,622.04"
+      ],
+      [
+        "25-Aug-2020",
+        "11 SMS CHARGE AND VAT FOR 24TH JUL - 24TH AUG 2020",
+        "26-Aug-2020",
+        "47.30",
+        "0.00",
+        "132,574.74"
+      ],
+      [
+        "28-Aug-2020",
+        "E-PAYMENT/-ENG LA ALLEN AVENUE BR LA LANG",
+        "28-Aug-2020",
+        "20,000.00",
+        "0.00",
+        "112,574.74"
+      ],
+      [
+        "28-Aug-2020",
+        "ELECTRONIC-ENG LA ALLEN AVENUE BR LA LANG",
+        "28-Aug-2020",
+        "26.88",
+        "0.00",
+        "112,547.86"
+      ],
+      [
+        "28-Aug-2020",
+        "POS PURCHA-ARTEE INDUSTRIES LTD LANG NG",
+        "28-Aug-2020",
+        "5,027.80",
+        "0.00",
+        "107,520.06"
+      ],
+      [
+        "31-Aug-2020",
+        "NIP FROM AKINWUMI AJIBOLA/AUGUSTSTIPEND /000015/001120499828",
+        "30-Aug-2020",
+        "0.00",
+        "40,000.00",
+        "147,520.06"
+      ],
+      [
+        "31-Aug-2020",
+        "STAMP DUTY CHARGE IFO FG",
+        "31-Aug-2020",
+        "50.00",
+        "0.00",
+        "147,470.06"
+      ],
+      [
+        "31-Aug-2020",
+        "INTEREST PAID",
+        "01-Sep-2020",
+        "0.00",
+        "446.99",
+        "147,917.05"
+      ],
+      [
+        "31-Aug-2020",
+        "WITHHOLDING TAX",
+        "01-Sep-2020",
+        "44.70",
+        "0.00",
+        "147,872.35"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Nov-2020 to 30-Nov-2020",
+    "Dates": "02-Dec-2020",
+    "Opening Balance": 72081.74,
+    "Closing Balance": 122008.97,
+    "Total Debit": 30169.03,
+    "Total Credit": 80096.26,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "02-Nov-2020",
+        "REF:0B1002YO2QV B/O AJIBOLA AKINWUMI ADEPITAN stipend ",
+        "01-Nov-2020",
+        "0.00",
+        "40,000.00",
+        "112,081.74"
+      ],
+      [
+        "02-Nov-2020",
+        "STAMP DUTY CHARGE IFO FG",
+        "02-Nov-2020",
+        "50.00",
+        "0.00",
+        "112,031.74"
+      ],
+      [
+        "05-Nov-2020",
+        "POS PURCHA-FS *seedr Amsterdam NL",
+        "05-Nov-2020",
+        "2,764.15",
+        "0.00",
+        "109,267.59"
+      ],
+      [
+        "11-Nov-2020",
+        "ATM CASH W-ENG WUSE 2 ABUJA FCT FCNG",
+        "11-Nov-2020",
+        "5,000.00",
+        "0.00",
+        "104,267.59"
+      ],
+      [
+        "13-Nov-2020",
+        "ATM CASH W-105738010000001 ATM1 P ZONE ABUJA NG",
+        "13-Nov-2020",
+        "5,000.00",
+        "0.00",
+        "99,267.59"
+      ],
+      [
+        "16-Nov-2020",
+        "POS PURCHA-IYA AYO CUISINE LIMI FC FCNG",
+        "16-Nov-2020",
+        "1,200.00",
+        "0.00",
+        "98,067.59"
+      ],
+      [
+        "17-Nov-2020",
+        "POS PURCHA-KINGSDELICACY NIGERIA LFC LANG",
+        "17-Nov-2020",
+        "2,100.00",
+        "0.00",
+        "95,967.59"
+      ],
+      [
+        "18-Nov-2020",
+        "POS PURCHA-WAYAPOINT SYSTEMS LA LANG",
+        "18-Nov-2020",
+        "5,200.00",
+        "0.00",
+        "90,767.59"
+      ],
+      [
+        "19-Nov-2020",
+        "POS PURCHA-SPLICE COM NEW YORK CITYNYUS",
+        "19-Nov-2020",
+        "3,179.08",
+        "0.00",
+        "87,588.51"
+      ],
+      [
+        "19-Nov-2020",
+        "POS PURCHA-EASY SHOPPING FOODMA FC FCNG",
+        "19-Nov-2020",
+        "600.00",
+        "0.00",
+        "86,988.51"
+      ],
+      [
+        "24-Nov-2020",
+        "ATM CASH W-000000000000016 WUSE Z ABUJA NG",
+        "24-Nov-2020",
+        "5,000.00",
+        "0.00",
+        "81,988.51"
+      ],
+      [
+        "27-Nov-2020",
+        "NIP FROM AJIBOLA AKINWUMI ADEPITAN/STIPEND /000013/000264968021",
+        "27-Nov-2020",
+        "0.00",
+        "40,000.00",
+        "121,988.51"
+      ],
+      [
+        "27-Nov-2020",
+        "STAMP DUTY CHARGE IFO FG",
+        "27-Nov-2020",
+        "50.00",
+        "0.00",
+        "121,938.51"
+      ],
+      [
+        "27-Nov-2020",
+        "6 SMS CHARGE AND VAT FOR 27TH OCT - 25TH NOV 2020",
+        "28-Nov-2020",
+        "25.80",
+        "0.00",
+        "121,912.71"
+      ],
+      [
+        "30-Nov-2020",
+        "INTEREST PAID",
+        "01-Dec-2020",
+        "0.00",
+        "96.26",
+        "122,008.97"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Jun-2020 to 30-Jun-2020",
+    "Dates": "07-Jul-2020",
+    "Opening Balance": 177522.57,
+    "Closing Balance": 183824.35,
+    "Total Debit": 74176.59,
+    "Total Credit": 80478.37,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "02-Jun-2020",
+        "REF:39084717 B/O AJIBOLA AKINWUMI ADEPITAN junestip",
+        "02-Jun-2020",
+        "0.00",
+        "40,000.00",
+        "217,522.57"
+      ],
+      [
+        "02-Jun-2020",
+        "STAMP DUTY CHARGE IFO FG",
+        "02-Jun-2020",
+        "50.00",
+        "0.00",
+        "217,472.57"
+      ],
+      [
+        "03-Jun-2020",
+        "E-PAYMENT/-TOYIN STREET BR LAGOS STATE, NG",
+        "03-Jun-2020",
+        "50,000.00",
+        "0.00",
+        "167,472.57"
+      ],
+      [
+        "03-Jun-2020",
+        "POS PURCHA-POS-EAT N GO-DP-TOYIN LA LANG",
+        "03-Jun-2020",
+        "3,200.00",
+        "0.00",
+        "164,272.57"
+      ],
+      [
+        "03-Jun-2020",
+        "ATM CASH W-SWTGTBsnk Ikeja NG",
+        "03-Jun-2020",
+        "3,000.00",
+        "0.00",
+        "161,272.57"
+      ],
+      [
+        "04-Jun-2020",
+        "MONTHLY CARD MAINTENANCE FEE",
+        "30-May-2020",
+        "53.75",
+        "0.00",
+        "161,218.82"
+      ],
+      [
+        "04-Jun-2020",
+        "SMS CHARGE",
+        "30-May-2020",
+        "30.10",
+        "0.00",
+        "161,188.72"
+      ],
+      [
+        "05-Jun-2020",
+        "POS PURCHA-FS *seedr Amsterdam NL",
+        "05-Jun-2020",
+        "2,960.36",
+        "0.00",
+        "158,228.36"
+      ],
+      [
+        "11-Jun-2020",
+        "POS PURCHA-DE TASTEE FRIED CHICKENLA LANG",
+        "11-Jun-2020",
+        "1,950.00",
+        "0.00",
+        "156,278.36"
+      ],
+      [
+        "18-Jun-2020",
+        "ATM CASH W-ACCESS BANK00000000000 IKEJA, LAGOS NG",
+        "18-Jun-2020",
+        "8,000.00",
+        "0.00",
+        "148,278.36"
+      ],
+      [
+        "18-Jun-2020",
+        "POS PURCHA-CHICKEN REBUBLIC LANG NG",
+        "18-Jun-2020",
+        "1,400.00",
+        "0.00",
+        "146,878.36"
+      ],
+      [
+        "19-Jun-2020",
+        "POS PURCHA-SPLICE COM NEW YORK CITYNYUS",
+        "19-Jun-2020",
+        "3,404.44",
+        "0.00",
+        "143,473.92"
+      ],
+      [
+        "26-Jun-2020",
+        "7 SMS CHARGE AND VAT FOR 28TH MAY - 25TH JUN 2020",
+        "27-Jun-2020",
+        "30.10",
+        "0.00",
+        "143,443.82"
+      ],
+      [
+        "30-Jun-2020",
+        "NIP FROM AJIBOLA AKINWUMI ADEPITAN/ /000013/000073379391",
+        "30-Jun-2020",
+        "0.00",
+        "40,000.00",
+        "183,443.82"
+      ],
+      [
+        "30-Jun-2020",
+        "STAMP DUTY CHARGE IFO FG",
+        "30-Jun-2020",
+        "50.00",
+        "0.00",
+        "183,393.82"
+      ],
+      [
+        "30-Jun-2020",
+        "INTEREST PAID",
+        "01-Jul-2020",
+        "0.00",
+        "478.37",
+        "183,872.19"
+      ],
+      [
+        "30-Jun-2020",
+        "WITHHOLDING TAX",
+        "01-Jul-2020",
+        "47.84",
+        "0.00",
+        "183,824.35"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Jan-2021 to 31-Jan-2021",
+    "Dates": "02-Feb-2021",
+    "Opening Balance": 115068.06,
+    "Closing Balance": 139146.69,
+    "Total Debit": 56047.35,
+    "Total Credit": 80125.98,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "05-Jan-2021",
+        "POS PURCHA-FS *seedr Amsterdam NL",
+        "05-Jan-2021",
+        "2,856.26",
+        "0.00",
+        "112,211.80"
+      ],
+      [
+        "05-Jan-2021",
+        "REF:616825378 B/O AJIBOLA AKINWUMI ADEPITAN January ",
+        "05-Jan-2021",
+        "0.00",
+        "40,000.00",
+        "152,211.80"
+      ],
+      [
+        "06-Jan-2021",
+        "STAMP DUTY CHARGE IFO FG",
+        "06-Jan-2021",
+        "50.00",
+        "0.00",
+        "152,161.80"
+      ],
+      [
+        "08-Jan-2021",
+        "POS PURCHA-ARTEE INDUSTRIES LIM LANG NG",
+        "08-Jan-2021",
+        "1,930.00",
+        "0.00",
+        "150,231.80"
+      ],
+      [
+        "08-Jan-2021",
+        "POS PURCHA-TFC OPEBI LA LANG",
+        "08-Jan-2021",
+        "2,000.00",
+        "0.00",
+        "148,231.80"
+      ],
+      [
+        "11-Jan-2021",
+        "POS PURCHA-ARTEE INDUSTRIES LIM LANG NG",
+        "09-Jan-2021",
+        "1,812.00",
+        "0.00",
+        "146,419.80"
+      ],
+      [
+        "13-Jan-2021",
+        "POS PURCHA-TFC OPEBI LA LANG",
+        "13-Jan-2021",
+        "1,850.00",
+        "0.00",
+        "144,569.80"
+      ],
+      [
+        "13-Jan-2021",
+        "POS PURCHA-CHICKEN REBUBLIC LANG NG",
+        "13-Jan-2021",
+        "300.00",
+        "0.00",
+        "144,269.80"
+      ],
+      [
+        "15-Jan-2021",
+        "POS PURCHA-MV PRODUCTIONS INC. 3",
+        "02-804-0253",
+        "213,851.89",
+        "0.00",
+        "140,417.91"
+      ],
+      [
+        "20-Jan-2021",
+        "POS PURCHA-TFC OPEBI LA LANG",
+        "20-Jan-2021",
+        "1,750.00",
+        "0.00",
+        "138,667.91"
+      ],
+      [
+        "20-Jan-2021",
+        "POS PURCHA-ECART INTERNET SERV LA LANG",
+        "20-Jan-2021",
+        "38,180.00",
+        "0.00",
+        "100,487.91"
+      ],
+      [
+        "26-Jan-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0125-012552080280-999999-201159JY-CHICKENREBUBLIC LANG NG- ",
+        "26-Jan-2021",
+        "1,400.00",
+        "0.00",
+        "99,087.91"
+      ],
+      [
+        "26-Jan-2021",
+        "4 SMS CHARGE AND VAT FOR 24TH DEC 2020 - 25TH JAN 2021",
+        "27-Jan-2021",
+        "17.20",
+        "0.00",
+        "99,070.71"
+      ],
+      [
+        "28-Jan-2021",
+        "REF:11S0050-ZR7Z B/O AJIBOLA AKINWUMI ADEPITAN monthly",
+        "28-Jan-2021",
+        "0.00",
+        "40,000.00",
+        "139,070.71"
+      ],
+      [
+        "28-Jan-2021",
+        "STAMP DUTY CHARGE IFO FG",
+        "28-Jan-2021",
+        "50.00",
+        "0.00",
+        "139,020.71"
+      ],
+      [
+        "29-Jan-2021",
+        "INTEREST PAID",
+        "01-Feb-2021",
+        "0.00",
+        "125.98",
+        "139,146.69"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Apr-2020 to 30-Apr-2020",
+    "Dates": "06-May-2020",
+    "Opening Balance": 156498.67,
+    "Closing Balance": 153606.65,
+    "Total Debit": 3407.13,
+    "Total Credit": 515.11,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "20-Apr-2020",
+        "POS PURCHA-SPLICE COM NEW YORK CITYNYUS",
+        "19-Apr-2020",
+        "3,308.32",
+        "0.00",
+        "153,190.35"
+      ],
+      [
+        "24-Apr-2020",
+        "11 SMS CHARGE AND VAT FOR 27TH MAR - 23RD APR 2020",
+        "27-Apr-2020",
+        "47.30",
+        "0.00",
+        "153,143.05"
+      ],
+      [
+        "30-Apr-2020",
+        "INTEREST PAID",
+        "01-May-2020",
+        "0.00",
+        "515.11",
+        "153,658.16"
+      ],
+      [
+        "30-Apr-2020",
+        "WITHHOLDING TAX",
+        "01-May-2020",
+        "51.51",
+        "0.00",
+        "153,606.65"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Mar-2021 to 31-Mar-2021",
+    "Dates": "02-Apr-2021",
+    "Opening Balance": 63340.55,
+    "Closing Balance": 97003.5,
+    "Total Debit": 46403.19,
+    "Total Credit": 80066.14,
+    "Uncleared Effects": 5746.83,
+    "Each Transactions": [
+      [
+        "01-Mar-2021",
+        "ATM CASH W-105717220000001 23 OLO LAGOS NG",
+        "27-Feb-2021",
+        "5,000.00",
+        "0.00",
+        "58,340.55"
+      ],
+      [
+        "01-Mar-2021",
+        "ATM TXN FE-105717220000001 23 OLO LAGOS NG",
+        "27-Feb-2021",
+        "35.00",
+        "0.00",
+        "58,305.55"
+      ],
+      [
+        "01-Mar-2021",
+        "ATM CASH W-105717220000001 23 OLO LAGOS NG",
+        "27-Feb-2021",
+        "5,000.00",
+        "0.00",
+        "53,305.55"
+      ],
+      [
+        "01-Mar-2021",
+        "ATM TXN FE-105717220000001 23 OLO LAGOS NG",
+        "27-Feb-2021",
+        "35.00",
+        "0.00",
+        "53,270.55"
+      ],
+      [
+        "01-Mar-2021",
+        "REF:12S0115Q45MC B/O AJIBOLA AKINWUMI ADEPITAN monthly",
+        "28-Feb-2021",
+        "0.00",
+        "40,000.00",
+        "93,270.55"
+      ],
+      [
+        "01-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0227-022760955180-999999-201159JY-CHICKENREBUBLIC LANG NG- ",
+        "01-Mar-2021",
+        "1,650.00",
+        "0.00",
+        "91,620.55"
+      ],
+      [
+        "01-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0228-022864321229-999999-2033FC90-SWEETSENSATION CONF A L NG- ",
+        "01-Mar-2021",
+        "1,820.00",
+        "0.00",
+        "89,800.55"
+      ],
+      [
+        "01-Mar-2021",
+        "ATM CASH W-000000000000036 Opebi Opebi NG",
+        "01-Mar-2021",
+        "5,000.00",
+        "0.00",
+        "84,800.55"
+      ],
+      [
+        "01-Mar-2021",
+        "ELECTRONIC MONEY TRANSFER LEVY",
+        "01-Mar-2021",
+        "50.00",
+        "0.00",
+        "84,750.55"
+      ],
+      [
+        "02-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0301-030167461725-999999-2UP16284-ARTEEINDUSTRIES LTD LANG NG- ",
+        "02-Mar-2021",
+        "2,940.00",
+        "0.00",
+        "81,810.55"
+      ],
+      [
+        "04-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0303-030377109121-999999-2UP15154-ARTEEINDUSTRIES LIM LANG NG- ",
+        "04-Mar-2021",
+        "4,094.00",
+        "0.00",
+        "77,716.55"
+      ],
+      [
+        "08-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0305-030585138936-999999-2214BY41-ARTEEINDUSTRIES LIM LANG NG- ",
+        "06-Mar-2021",
+        "1,275.60",
+        "0.00",
+        "76,440.95"
+      ],
+      [
+        "08-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0306-106511148015-999999-99999999-FS *seedrAmsterdam NL- ",
+        "06-Mar-2021",
+        "3,162.29",
+        "0.00",
+        "73,278.66"
+      ],
+      [
+        "08-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0306-000013619688-999999-0000 -SPLICE.COM3235775423 NYUS- ",
+        "08-Mar-2021",
+        "3,635.50",
+        "0.00",
+        "69,643.16"
+      ],
+      [
+        "10-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0309-030997252695-999999-2UP16283-ARTEEINDUSTRIES LTD LANG NG- ",
+        "10-Mar-2021",
+        "1,040.00",
+        "0.00",
+        "68,603.16"
+      ],
+      [
+        "10-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0309-030997079291-999999-2033FD20-SWEETSENSATION CONF A L NG- ",
+        "10-Mar-2021",
+        "700.00",
+        "0.00",
+        "67,903.16"
+      ],
+      [
+        "16-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0315-031518727615-999999-2UP16282-ARTEEINDUSTRIES LTD LANG NG- ",
+        "16-Mar-2021",
+        "3,189.50",
+        "0.00",
+        "64,713.66"
+      ],
+      [
+        "17-Mar-2021",
+        "POS PURCHA-TFC OPEBI LA LANG",
+        "17-Mar-2021",
+        "1,700.00",
+        "0.00",
+        "63,013.66"
+      ],
+      [
+        "22-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0320-032034549569-999999-2214BK6K-ARTEEINDUSTRIES LIM LANG NG- ",
+        "22-Mar-2021",
+        "1,896.00",
+        "0.00",
+        "61,117.66"
+      ],
+      [
+        "24-Mar-2021",
+        "15 SMS CHARGE AND VAT FOR 24TH FEB 2021 - 23RD MAR 2021",
+        "25-Mar-2021",
+        "64.50",
+        "0.00",
+        "61,053.16"
+      ],
+      [
+        "25-Mar-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0324-032447435372-999999-2UP16282-ARTEEINDUSTRIES LTD LANG NG- ",
+        "25-Mar-2021",
+        "4,012.05",
+        "0.00",
+        "57,041.11"
+      ],
+      [
+        "26-Mar-2021",
+        "Q1 CARD MAINTENANCE FEE ",
+        "27-Mar-2021",
+        "53.75",
+        "0.00",
+        "56,987.36"
+      ],
+      [
+        "31-Mar-2021",
+        "REF:693870718 B/O AJIBOLA AKINWUMI ADEPITAN March ",
+        "31-Mar-2021",
+        "0.00",
+        "40,000.00",
+        "96,987.36"
+      ],
+      [
+        "31-Mar-2021",
+        "ELECTRONIC MONEY TRANSFER LEVY",
+        "31-Mar-2021",
+        "50.00",
+        "0.00",
+        "96,937.36"
+      ],
+      [
+        "31-Mar-2021",
+        "INTEREST PAID",
+        "01-Apr-2021",
+        "0.00",
+        "66.14",
+        "97,003.50"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Feb-2021 to 28-Feb-2021",
+    "Dates": "04-Mar-2021",
+    "Opening Balance": 139146.69,
+    "Closing Balance": 63340.55,
+    "Total Debit": 75882.97,
+    "Total Credit": 76.83,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "01-Feb-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0129-012966334811-999999-2UP15200-ARTEEINDUSTRIES LIM LANG NG- ",
+        "30-Jan-2021",
+        "1,529.23",
+        "0.00",
+        "137,617.46"
+      ],
+      [
+        "02-Feb-2021",
+        "ATM CASH W-KEYSTONE BANK ikeja NG",
+        "02-Feb-2021",
+        "5,000.00",
+        "0.00",
+        "132,617.46"
+      ],
+      [
+        "02-Feb-2021",
+        "POS PURCHA-FUNDS & ELECTRONIC T LA LANG",
+        "02-Feb-2021",
+        "3,500.00",
+        "0.00",
+        "129,117.46"
+      ],
+      [
+        "04-Feb-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0203-020384027879-999999-21030228-DE TASTEEFRIED CHIC LANG NG- ",
+        "04-Feb-2021",
+        "1,750.00",
+        "0.00",
+        "127,367.46"
+      ],
+      [
+        "05-Feb-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0205-103611373232-999999-99999999-FS *seedrAmsterdam NL- ",
+        "05-Feb-2021",
+        "3,052.56",
+        "0.00",
+        "124,314.90"
+      ],
+      [
+        "08-Feb-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0206-000089884215-999999-0000 -SPLICE.COM3235775423 NYUS- ",
+        "08-Feb-2021",
+        "3,512.53",
+        "0.00",
+        "120,802.37"
+      ],
+      [
+        "09-Feb-2021",
+        "E-PAYMENT/-IKEJA,60 OPEBI IKEJA, LAGOS NG",
+        "09-Feb-2021",
+        "40,000.00",
+        "0.00",
+        "80,802.37"
+      ],
+      [
+        "09-Feb-2021",
+        "ELECTRONIC-IKEJA,60 OPEBI IKEJA, LAGOS NG",
+        "09-Feb-2021",
+        "53.75",
+        "0.00",
+        "80,748.62"
+      ],
+      [
+        "09-Feb-2021",
+        "POS PURCHA-FOOD CONCEPTS PLCCHI LA LANG",
+        "09-Feb-2021",
+        "1,650.00",
+        "0.00",
+        "79,098.62"
+      ],
+      [
+        "11-Feb-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0210-021006423991-999999-2033FD20-SWEETSENSATION CONF A L NG- ",
+        "11-Feb-2021",
+        "2,020.00",
+        "0.00",
+        "77,078.62"
+      ],
+      [
+        "12-Feb-2021",
+        "ATM CASH W-SWTWEMsnk Ikeja, Lagos NG",
+        "12-Feb-2021",
+        "3,000.00",
+        "0.00",
+        "74,078.62"
+      ],
+      [
+        "16-Feb-2021",
+        "POS PURCHA-FOOD CONCEPTS PLCCHI LA LANG",
+        "16-Feb-2021",
+        "1,650.00",
+        "0.00",
+        "72,428.62"
+      ],
+      [
+        "22-Feb-2021",
+        "ATM CASH W-KEYSTONE BANK ikeja NG",
+        "22-Feb-2021",
+        "5,000.00",
+        "0.00",
+        "67,428.62"
+      ],
+      [
+        "24-Feb-2021",
+        "14 SMS CHARGE AND VAT FOR 26TH JAN 2021 - 23RD FEB 2021",
+        "25-Feb-2021",
+        "60.20",
+        "0.00",
+        "67,368.42"
+      ],
+      [
+        "25-Feb-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0224-022451133798-999999-2UP17661-ARTEEINDUSTRIES LIM LANG NG- ",
+        "25-Feb-2021",
+        "4,104.70",
+        "0.00",
+        "63,263.72"
+      ],
+      [
+        "26-Feb-2021",
+        "INTEREST PAID",
+        "01-Mar-2021",
+        "0.00",
+        "76.83",
+        "63,340.55"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Apr-2021 to 30-Apr-2021",
+    "Dates": "02-May-2021",
+    "Opening Balance": 97003.5,
+    "Closing Balance": 82838.68,
+    "Total Debit": 56199.82,
+    "Total Credit": 42035.0,
+    "Uncleared Effects": 1710.0,
+    "Each Transactions": [
+      [
+        "01-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0331-033175474478-999999-2UP15198-ARTEEINDUSTRIES LTD LANG NG- ",
+        "02-Apr-2021",
+        "3,530.00",
+        "0.00",
+        "93,473.50"
+      ],
+      [
+        "06-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0402-000034118535-999999-0000 -SPLICE.COM3235775423 NYUS- ",
+        "03-Apr-2021",
+        "3,626.62",
+        "0.00",
+        "89,846.88"
+      ],
+      [
+        "06-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0406-109611220800-999999-99999999-FS *seedrAmsterdam NL- ",
+        "06-Apr-2021",
+        "3,154.58",
+        "0.00",
+        "86,692.30"
+      ],
+      [
+        "08-Apr-2021",
+        "ATM CASH W-SWTGTBsnk Hall Car Park NG",
+        "08-Apr-2021",
+        "2,000.00",
+        "0.00",
+        "84,692.30"
+      ],
+      [
+        "12-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0410-041009424448-999999-204469PD-SMACKERSLIMITED LANG NG- ",
+        "12-Apr-2021",
+        "2,150.00",
+        "0.00",
+        "82,542.30"
+      ],
+      [
+        "12-Apr-2021",
+        "ATM CASH W-ENG LA UNILAG LAGOS LANG",
+        "12-Apr-2021",
+        "3,000.00",
+        "0.00",
+        "79,542.30"
+      ],
+      [
+        "14-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0410-110020494363-999999-99999999-BOLT_PAYULAGOS ISLAND NG- ",
+        "14-Apr-2021",
+        "1,500.00",
+        "0.00",
+        "78,042.30"
+      ],
+      [
+        "14-Apr-2021",
+        "NIP FROM CHUKWUEBUKA SAMUELDAVID/TRFFRMCHUKWUEBUKASAMUELDAVIDTOAJI/000014/287449456192",
+        "14-Apr-2021",
+        "0.00",
+        "2,035.00",
+        "80,077.30"
+      ],
+      [
+        "14-Apr-2021",
+        "ATM CASH W-SWTGTBsnk Hall Car Park NG",
+        "14-Apr-2021",
+        "2,000.00",
+        "0.00",
+        "78,077.30"
+      ],
+      [
+        "14-Apr-2021",
+        "ATM CASH W-ENG LA UNILAG LAGOS LANG",
+        "14-Apr-2021",
+        "4,000.00",
+        "0.00",
+        "74,077.30"
+      ],
+      [
+        "15-Apr-2021",
+        "POS PURCHA-SMACKERS LTD SMACKERS LLA LANG",
+        "15-Apr-2021",
+        "1,600.00",
+        "0.00",
+        "72,477.30"
+      ],
+      [
+        "19-Apr-2021",
+        "ATM CASH W-SWTWEMsnk Ikeja, Lagos NG",
+        "19-Apr-2021",
+        "3,000.00",
+        "0.00",
+        "69,477.30"
+      ],
+      [
+        "19-Apr-2021",
+        "ATM CASH W-ACCESS BANK00000000000 LAGOS STATE,N NG",
+        "19-Apr-2021",
+        "5,000.00",
+        "0.00",
+        "64,477.30"
+      ],
+      [
+        "19-Apr-2021",
+        "ATM TXN FE-ACCESS BANK00000000000 LAGOS STATE,N NG",
+        "19-Apr-2021",
+        "35.00",
+        "0.00",
+        "64,442.30"
+      ],
+      [
+        "19-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0416-110622192190-999999-99999999-BOLT_PAYULAGOS ISLAND NG- ",
+        "19-Apr-2021",
+        "2,200.00",
+        "0.00",
+        "62,242.30"
+      ],
+      [
+        "21-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0420-042052212368-999999-2UP15158-ARTEEINDUSTRIES LTD LANG NG- ",
+        "21-Apr-2021",
+        "3,305.70",
+        "0.00",
+        "58,936.60"
+      ],
+      [
+        "23-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0422-042263334988-999999-2UP16282-ARTEEINDUSTRIES LTD LANG NG- ",
+        "23-Apr-2021",
+        "2,505.00",
+        "0.00",
+        "56,431.60"
+      ],
+      [
+        "27-Apr-2021",
+        "ATM CASH W-105705430000001 ATM3_8 Opebi Ikeja NG",
+        "27-Apr-2021",
+        "4,000.00",
+        "0.00",
+        "52,431.60"
+      ],
+      [
+        "27-Apr-2021",
+        "ATM TXN FE-105705430000001 ATM3_8 Opebi Ikeja NG",
+        "27-Apr-2021",
+        "35.00",
+        "0.00",
+        "52,396.60"
+      ],
+      [
+        "27-Apr-2021",
+        "ATM CASH W-105705430000001 ATM3_8 Opebi Ikeja NG",
+        "27-Apr-2021",
+        "4,000.00",
+        "0.00",
+        "56,396.60"
+      ],
+      [
+        "27-Apr-2021",
+        "ATM TXN FE-105705430000001 ATM3_8 Opebi Ikeja NG",
+        "27-Apr-2021",
+        "35.00",
+        "0.00",
+        "56,431.60"
+      ],
+      [
+        "27-Apr-2021",
+        "ATM CASH W-105705440000001 ATM4_8 Opebi Ikeja NG",
+        "27-Apr-2021",
+        "4,000.00",
+        "0.00",
+        "52,431.60"
+      ],
+      [
+        "27-Apr-2021",
+        "ATM TXN FE-105705440000001 ATM4_8 Opebi Ikeja NG",
+        "27-Apr-2021",
+        "35.00",
+        "0.00",
+        "52,396.60"
+      ],
+      [
+        "27-Apr-2021",
+        "POS PURCHA-SMACKERS LTD-OGUDU LA LANG",
+        "27-Apr-2021",
+        "2,700.00",
+        "0.00",
+        "49,696.60"
+      ],
+      [
+        "27-Apr-2021",
+        "POS PURCHA-FUNDS & ELECTRONIC T LA LANG",
+        "27-Apr-2021",
+        "1,800.00",
+        "0.00",
+        "47,896.60"
+      ],
+      [
+        "27-Apr-2021",
+        "REF:14S1044YWC0M B/O AJIBOLA AKINWUMI ADEPITAN monthly",
+        "28-Apr-2021",
+        "0.00",
+        "40,000.00",
+        "87,896.60"
+      ],
+      [
+        "27-Apr-2021",
+        "19 SMS CHARGE AND VAT FOR 24TH MAR 2021 - 26TH APR 2021",
+        "28-Apr-2021",
+        "81.70",
+        "0.00",
+        "87,814.90"
+      ],
+      [
+        "28-Apr-2021",
+        "ELECTRONIC MONEY TRANSFER LEVY",
+        "28-Apr-2021",
+        "50.00",
+        "0.00",
+        "87,764.90"
+      ],
+      [
+        "30-Apr-2021",
+        "POS PURCHA-PREAUTHCARDtxn-0429-042992723120-999999-2214BK6K-ARTEEINDUSTRIES LIMIT LANG NG- ",
+        "30-Apr-2021",
+        "4,926.22",
+        "0.00",
+        "82,838.68"
+      ]
+    ]
+  },
+  {
+    "Periods": "01-Sep-2020 to 30-Sep-2020",
+    "Dates": "02-Oct-2020",
+    "Opening Balance": 147872.35,
+    "Closing Balance": 111280.94,
+    "Total Debit": 36717.13,
+    "Total Credit": 125.72,
+    "Uncleared Effects": 0.0,
+    "Each Transactions": [
+      [
+        "07-Sep-2020",
+        "POS PURCHA-FS *seedr Amsterdam NL",
+        "05-Sep-2020",
+        "2,763.31",
+        "0.00",
+        "145,109.04"
+      ],
+      [
+        "10-Sep-2020",
+        "E-PAYMENT/-IKEJA,60 OPEBI IKEJA, LAGOS NG",
+        "10-Sep-2020",
+        "25,000.00",
+        "0.00",
+        "120,109.04"
+      ],
+      [
+        "10-Sep-2020",
+        "ATM CASH W-ACCESS BANK00000000000 IKEJA, LAGOS NG",
+        "10-Sep-2020",
+        "5,000.00",
+        "0.00",
+        "115,109.04"
+      ],
+      [
+        "10-Sep-2020",
+        "POS PURCHA-SWEET SENSATION CONF A L NG",
+        "10-Sep-2020",
+        "700.00",
+        "0.00",
+        "114,409.04"
+      ],
+      [
+        "21-Sep-2020",
+        "POS PURCHA-SPLICE COM NEW YORK CITYNYUS",
+        "19-Sep-2020",
+        "3,178.57",
+        "0.00",
+        "111,230.47"
+      ],
+      [
+        "25-Sep-2020",
+        "5 SMS CHARGE AND VAT FOR 25TH AUG - 24TH SEP 2020",
+        "26-Sep-2020",
+        "53.75",
+        "0.00",
+        "111,176.72"
+      ],
+      [
+        "25-Sep-2020",
+        "Q3 CARD MAINTENANCE FEE ",
+        "26-Sep-2020",
+        "21.50",
+        "0.00",
+        "111,155.22"
+      ],
+      [
+        "30-Sep-2020",
+        "INTEREST PAID",
+        "01-Oct-2020",
+        "0.00",
+        "125.72",
+        "111,280.94"
+      ]
+    ]
+  }
+]
