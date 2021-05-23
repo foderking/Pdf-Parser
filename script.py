@@ -1,7 +1,7 @@
-import json, pprint
+import json, pprint, time
 import os, subprocess, re
 
-
+start_time = time.time()
 DB_PATH = './data.json'
 re_date = re.compile('Date.*(\d{2}-\w{3}-\d{4})')
 digit_match = '\d{0,3}\,?\d{0,3}\.\d{2}'
@@ -10,12 +10,7 @@ date_match = '\d{2}-\w{3}-\d{4}'
 
 ###   Main Functions  ###
 
-def getPdfFiles():
-	return list(filter(lambda x: x.startswith('20'), os.listdir()))
 
-def getShellOuput():
-	pdf_files = getPdfFiles()
-	return list(map(lambda x: runShell(x), pdf_files))
 
 def runShell(file_path):
 	output = subprocess.check_output(['pdf2txt.py', '-n', file_path ]).decode('utf-8')
@@ -26,14 +21,10 @@ def digitizeTuple(tupl):
 	for i in range(3, 6):
 		temp[i] = str2NUm(temp[i])
 	return tuple(temp)
-
-
 # gets info transaction info
 def textAndDigit(text, info):
 	output = re.search(f'{info}.*?({digit_match})', text).groups()[0]
-	return str2NUm(output)
-	# return (output)	 # string
-
+	return str2NUm(output)  # Float
 # sorts each transaction info into an array of strings
 def testTextAndDigit(info, arr, length, show = True):
 	test = list(map(lambda x: textAndDigit(x, info), arr))
@@ -167,19 +158,18 @@ def Test(show = True):
 			**testEachTrans(show)   				#array of arrays containing tuples
 		}, Len
 
-
-		return {
-			'open': 3
-		}
-
 	# specialTransText('Feb')
 	# testTransText(True)
-
-	return testAll(show)
 	# testEachTrans(show)
 	# testTotalCredit(show)
 
+	if not show:
+		print('Generating dictionary...')
+
+	return testAll(show)
+
 def dictionaryParser(dictionary):
+	print('Parsing...')
 	dic, length = dictionary
 	full_array = []
 
@@ -194,19 +184,32 @@ def dictionaryParser(dictionary):
 
 
 def saveToDB(dictionary, output):
+	print('Saving to json...')
 	json_object = json.dumps(dictionary, indent = 2)
 
+
+def getPdfFiles():
+	print('Geting list of pdf files...')
+	return list(filter(lambda x: x.startswith('20'), os.listdir()))
+
+def getShellOuput():
+	pdf_files = getPdfFiles()
+	print('Generating shell output...')
+	return list(map(lambda x: runShell(x), pdf_files))
 	with open(output, "w") as outfile:
 	  outfile.write(json_object)
 
-def convertToText():
+def convertToDB():
 	dic = Test(False)
 	db = dictionaryParser(dic)
 	saveToDB(db, DB_PATH)
 	# print(len(g))
 
 def Main():
-	convertToText()
+	print('Starting script...')
+	convertToDB()
+	print(f'DONE!\nScript finished in {time.time() - start_time} seconds')
+
 
 
 
